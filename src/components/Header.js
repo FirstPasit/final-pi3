@@ -16,7 +16,7 @@ const Header = () => {
         </Link>
         <div className='flex justify-between items-center gap-8'>
           <Link to = '/'><h2 className='text-2xl' >Home</h2></Link>
-          <Link to = "/showproduct"><h2 className='text-2xl'>Book</h2></Link>
+          <Link to = 'SecondHeader'><h2 className='text-2xl'>Book</h2></Link>
         </div>
       </div>
     </header>

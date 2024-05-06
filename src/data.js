@@ -26,7 +26,7 @@ export const utccData = [
     facu: 'UBS',
     name: 'UBS',
     description:
-      'คณะบริหาระุรกิจ',
+      'คณะบริหารธุรกิจ',
     image: UBS1,
     information: 'โปรดกรอกข้อมูล'
   },
